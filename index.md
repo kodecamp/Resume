@@ -1,19 +1,17 @@
-###                                                   Sushil Kumar Verma
+### Sushil Kumar Verma
 
-
-E-602 Sector-I, L.D.A Colony
-Kanpur Road Lucknow
-Uttar Pradesh
-Pincode : 226012
-Phone : +91-9044477586
-Email: sushilv3rma@gmail.com
-Github: https://github.com/sushilv3
+E-602 Sector-I, L.D.A Colony<br>
+Kanpur Road Lucknow<br>
+Uttar Pradesh<br>
+Pincode : 226012<br>
+Phone : +91-9044477586<br>
+Email: sushilv3rma@gmail.com<br>
+Github: https://github.com/sushilv3<br>
 
 #### Objective -
 
 To work for organization which provides me enough opportunities to improve my
 skills and knowledge to grow along the organizational objectives.
-
 
 ### Professional Experience
 
@@ -23,9 +21,7 @@ skills and knowledge to grow along the organizational objectives.
 - Knowledge of Eclipse tool for the development of Java projects.
 - Hands on experience in Tomcat 9 and Tomee 8 web servers.
 
-
 #### 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 Oct 2019 - Mar 2020)
-<hr>
 
 **Type Of Job :**  Internship
 
@@ -64,7 +60,6 @@ Responsibilities :
   prototyping, proof of concepts, design, interface implementation, testing and
   maintenance.
 
-
 #### 2. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec 2013 to feb 2018)
 
 **Type Of Job :** Permanent
@@ -96,3 +91,4 @@ Responsibilities :
 **Date :**
 
 **Place :** lucknow   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                                          (Sushil Kr Verma)
+
