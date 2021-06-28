@@ -1,6 +1,6 @@
 ### Sushil Kumar Verma
 
-```
+
 E-602 Sector-I, L.D.A Colony<br>
 Kanpur Road Lucknow
 Uttar Pradesh
@@ -8,21 +8,21 @@ Pincode : 226012
 Phone : +91-9044477586
 Email: sushilv3rma@gmail.com
 Github: https://github.com/sushilv3
-```
+
 #### Objective -
-```
+
 To work for organization which provides me enough opportunities to improve my
 skills and knowledge to grow along the organizational objectives.
-```
+
 
 ### Professional Experience
-```
+
 - Working with kodecamp from 6 Oct 2017 till date.
 - Hands on experience in jdk8, Servlets, JDBC, JPA, JSF, JEE platforms.
 - Object Oriented analysis and design using common design patterns.
 - Knowledge of Eclipse tool for the development of Java projects.
 - Hands on experience in Tomcat 9 and Tomee 8 web servers.
-```
+
 
 #### 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 Oct 2019 - Mar 2020)
 <hr>
@@ -44,7 +44,7 @@ Databases:MySql , h2.
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 
 #### Project Details
-```
+
 Project Name : truSchoolCare
 
 Description :
@@ -63,7 +63,7 @@ Responsibilities :
 - Involved in the full life cycle of software design process of project, including
   prototyping, proof of concepts, design, interface implementation, testing and
   maintenance.
-```
+
 
 #### 2. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec 2013 to feb 2018)
 
