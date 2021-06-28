@@ -1,8 +1,7 @@
-### Sushil Kumar Verma
+###                                                   Sushil Kumar Verma
 
 
 E-602 Sector-I, L.D.A Colony
-
 Kanpur Road Lucknow
 Uttar Pradesh
 Pincode : 226012
