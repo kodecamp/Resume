@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+### Sushil Kumar Verma
 
-You can use the [editor on GitHub](https://github.com/kodecamp/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+E-602 Sector-I, L.D.A Colony<br>
+Kanpur Road Lucknow
+Uttar Pradesh
+Pincode : 226012
+Phone : +91-9044477586
+Email: sushilv3rma@gmail.com
+Github: https://github.com/sushilv3
+```
+#### Objective -
+```
+To work for organization which provides me enough opportunities to improve my
+skills and knowledge to grow along the organizational objectives.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Professional Experience
+```
+- Working with kodecamp from 6 Oct 2017 till date.
+- Hands on experience in jdk8, Servlets, JDBC, JPA, JSF, JEE platforms.
+- Object Oriented analysis and design using common design patterns.
+- Knowledge of Eclipse tool for the development of Java projects.
+- Hands on experience in Tomcat 9 and Tomee 8 web servers.
+```
 
-### Jekyll Themes
+#### 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 Oct 2019 - Mar 2020)
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kodecamp/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Type Of Job :**  Internship
 
-### Support or Contact
+**Technical Skills**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Operating Systems :** Linux(Ubuntu).
+
+**Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
+Databases:MySql , h2.
+
+**Web/Enterprise Technologies :** AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3, JPA, Rest Service.
+
+**Web / Application Server :** Tomcat 9, Tomee 8.
+
+
+**Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
+
+#### Project Details
+```
+Project Name : truSchoolCare
+
+Description :
+
+truSchoolCare is a multi interconnected module which automates all operations like
+Admissions, Exams, Attendance,Time Table generation, Kids Learning, Fee Submission,
+Library Management, Educational Social Network etc) related to school and academic
+process.
+
+Responsibilities :
+
+- Working as a part of iSchool Project from scratching to the development.
+- Write well designed, testable, efficient code.
+- Communicates project needs from client and internal employer personnel to ensure
+  quality and within the given deadline.
+- Involved in the full life cycle of software design process of project, including
+  prototyping, proof of concepts, design, interface implementation, testing and
+  maintenance.
+```
+
+#### 2. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec 2013 to feb 2018)
+
+**Type Of Job :** Permanent
+
+**Job Duration -**  4 years 2months
+
+**Job profile -**  IT Lead
+
+**responsibilities -**
+
+* System Maintenance.
+* Team Handling.
+* Providing training on platform and software products.
+
+#### Education
+
+**Professional Qualification :**
+
+* Post graduate diploma in  computer application PGDCA from   IGNOU.
+* BCA from Lucknow University.
+
+**Academic Qualification :**
+
+**Matriculation :** U.P.Board in 2005
+**Intermediate :** U.P.Board in 2007
+
+**DECLARATION :**  I declare that all the given information given above is truthful.
+
+**Date :**
+
+**Place :** lucknow   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                                          (Sushil Kr Verma)
