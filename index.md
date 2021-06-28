@@ -6,14 +6,14 @@ Uttar Pradesh<br>
 Pincode : 226012<br>
 Phone : +91-9044477586<br>
 Email: sushilv3rma@gmail.com<br>
-Github: https://github.com/sushilv3<br>
+[Github](https://github.com/sushilv3)<br>
 
 #### Objective -
 
 To work for organization which provides me enough opportunities to improve my
 skills and knowledge to grow along the organizational objectives.
 
-### Professional Experience
+#### Professional Experience
 
 - Working with kodecamp from 6 Oct 2017 till date.
 - Hands on experience in jdk8, Servlets, JDBC, JPA, JSF, JEE platforms.
